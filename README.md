@@ -83,7 +83,7 @@ To then use the repository, you need to clone it:
 
 ```shell
 git clone https://github.dev/leestott/AzureOpenAISamples
-cd generative-ai-for-beginners
+cd AzureOpenAISamples
 ```
 
 Once you have everything checked out, you can get started!
